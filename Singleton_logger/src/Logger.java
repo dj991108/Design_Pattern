@@ -8,11 +8,16 @@ public class Logger {
 
     private final String LOGFILE = "log.txt";
     private PrintWriter writer;
-    public Logger() {
+    private static Logger instance;
+    private Logger() { // private 으로 선언
         try {
             FileWriter fw = new FileWriter((LOGFILE));
             writer = new PrintWriter(fw, true);
         } catch (IOException e){}
+    }
+    public static Logger getInstance() {
+        if (instance == null) instance = new Logger(); // Lazy Initialization
+        return instance;
     }
     public void log (String message) {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z" );

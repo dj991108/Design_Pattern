@@ -1,1 +1,2 @@
-2022-09-02 at 14:22:19 KST : owner : insang2 withdraw 5000
+2022-09-02 at 16:46:33 KST : owner : insang1 deposit 20000
+2022-09-02 at 16:46:33 KST : owner : insang2 withdraw 5000
