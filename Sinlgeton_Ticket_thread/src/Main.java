@@ -6,9 +6,9 @@ public class Main {
     public static void main(String[] args) {
         User[] users = new User[NUM];
 
-        for (int i = 0; i < NUM; i++) {
-            users[i] = new User("user" + i);
-            users[i].start();
+        for (int j = 0; j < NUM; j++) {
+            users[j] = new User("user" + j);
+            users[j].start();
         }
     }
 }

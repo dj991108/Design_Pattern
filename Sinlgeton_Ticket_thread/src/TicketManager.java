@@ -12,11 +12,11 @@ public class TicketManager {
     public static TicketManager getInstance() {
 
         if (instance == null) {
-//            try {
-//                Thread.sleep(1000);
-//            } catch (InterruptedException e){
-//                e.printStackTrace();
-//            }
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e){
+                e.printStackTrace();
+            }
             instance = new TicketManager();
         }
         return instance;
