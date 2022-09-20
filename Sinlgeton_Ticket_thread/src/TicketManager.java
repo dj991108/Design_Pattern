@@ -21,7 +21,7 @@ public class TicketManager {
         }
         return instance;
     }
-    public  Optional<Ticket> issue() {
+    public Optional<Ticket> issue() {
         if (count >= LIMITS) return Optional.empty();
         return Optional.of(new Ticket(count++));
     }
