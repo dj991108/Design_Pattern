@@ -12,8 +12,14 @@ public class Student {
         private double finalScore;
         private double hwScore;
 
-        public StudentBuilder(String name) {
+
+        //public StudentBuilder(String name) {
+        //    this.name = name;
+        //}
+
+        public StudentBuilder name(String name){ // method chaining 기법을 활용하기 위해 리턴값이 있음
             this.name = name;
+            return this;
         }
 
         public StudentBuilder major(String major) {
