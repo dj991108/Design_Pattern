@@ -36,7 +36,7 @@ public class InMemoryRepository {
     public void printEmployees() {
         map.forEach((key, emp) -> {
             System.out.println(
-                    String.format("키 -> %s, 정상근무시간 -> %s, 초과근무시간 -> %s",
+                    String.format("키-> %s, 정상근무시간 -> %s, 초과근무시간 -> %s",
                             key, emp.getWorkingHours(), emp.getOvertimeHours())
             );
         });
