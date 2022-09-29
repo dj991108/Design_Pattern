@@ -23,7 +23,7 @@ public class InMemoryRepository {
     }
 
     private Employee copyEmployee(Employee emp) {
-        return  new Employee(
+        return new Employee(
                 emp.getId(), emp.getWorkingHours(), emp.getOvertimeHours()
         );
     }
