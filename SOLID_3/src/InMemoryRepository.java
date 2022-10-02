@@ -13,7 +13,7 @@ public class InMemoryRepository {
     }
     //inMemory
     public void createEmployee(String id) {
-        if(!map.containsKey(id))	//키가 들어있는지 확인. 있으면 덮어쓰지 않는다.
+        if(!map.containsKey(id))	//키가 들어있는지 확인, 있으면 덮어쓰지 않는다.
             map.put(id, new Employee(id));
     }
 
