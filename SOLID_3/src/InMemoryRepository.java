@@ -18,7 +18,7 @@ public class InMemoryRepository {
     }
 
     public Employee getEmployee(String id) {
-//        if (!map.containsKey(id)) throw new EmpoyeeNotFoundException();
+       // if (!map.containsKey(id)) throw new EmpoyeeNotFoundException();
         return copyEmployee(map.get(id));
       }
 
@@ -36,7 +36,7 @@ public class InMemoryRepository {
     public void printEmployees() {
         map.forEach((key, emp) -> {
             System.out.println(
-                    String.format("키-> %s, 정상 근무시간 -> %s, 초과 근무시간 -> %s",
+                    String.format("키값 -> %s, 정상 근무시간 -> %s, 초과 근무시간 -> %s",
                             key, emp.getWorkingHours(), emp.getOvertimeHours())
             );
         });
