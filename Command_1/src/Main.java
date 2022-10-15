@@ -1,4 +1,5 @@
 public class Main {
+    // command
     public static void main(String[] args) {
         TV tv = new TV();
         Command powerCmd = new PowerCommand(tv);
