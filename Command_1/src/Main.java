@@ -1,5 +1,5 @@
 public class Main {
-    // Command pattern
+    // Command Pattern
     public static void main(String[] args) {
         TV tv = new TV();
         Command powerCmd = new PowerCommand(tv);
