@@ -6,9 +6,9 @@ public class TV {
         powerOn = !powerOn;
 
         if (powerOn)
-            System.out.println("power On");
+            System.out.println("power On!");
         else
-            System.out.println("power Off");
+            System.out.println("power Off!");
     }
 
     public void mute() {
