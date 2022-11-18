@@ -1,5 +1,5 @@
 public class Main {
-
+    // Observer pattern
     public static void main(String[] args) {
         Battery battery = new Battery();
         Observer display = new BatteryLevelDisplay(battery);
