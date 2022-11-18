@@ -6,19 +6,13 @@ import java.util.logging.Level;
 
 public class Battery extends Subject{
     private int level = 100;
-    private BatteryLevelDisplay display;
-    private LowBatteryWarning warning;
-    private List<Observer> observer = new ArrayList<>();
+//    private BatteryLevelDisplay display;
+//    private LowBatteryWarning warning;
+//    private List<Observer> observers = new ArrayList<Observer>();
 
-    public void atatch(Observer o){
-        observer.add(o);
-    }
     public void consume(int amount) {
         level -= amount;
         updateObservers();
-    }
-    private void updateObservers() {
-        for (Observer o : observer) o.update();
     }
     public int getLevel(){
         return level;
