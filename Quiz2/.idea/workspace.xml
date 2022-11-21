@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2ab1e8b-b3b7-4d08-964c-9a172f5893ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/MapSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/MazeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/SimpleMazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MazeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MazeCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMazeCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RoomWithBomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecretDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleMazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder_1/Builder_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/Builder_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder_1/src/MainLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/src/MainLombok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder_1/src/StudentLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/src/StudentLombok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator_1/out/production/Decorator_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/out/production/Decorator_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator_1/src/ExternalEmailContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/src/ExternalEmailContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sinlgeton_Ticket_thread/src/TicketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sinlgeton_Ticket_thread/src/TicketManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML/ClassDiagram_1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UML/ClassDiagram_2.PNG" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hnq1kJHQuWuHnSCnhPNnkToP7b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/김동준/Desktop/설계패턴/Design_Pattern/Quiz2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\김동준\Desktop\설계패턴\Design_Pattern\Quiz2\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyMazeCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyMazeCreator" />
+      <module name="Quiz2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMazeCreator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ab1e8b-b3b7-4d08-964c-9a172f5893ce" name="Changes" comment="" />
+      <created>1668930983607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668930983607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
