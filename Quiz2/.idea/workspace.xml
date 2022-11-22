@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2ab1e8b-b3b7-4d08-964c-9a172f5893ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/MapSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/MazeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/SimpleMazeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz1/src/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MazeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MazeCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyMazeCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoomWithBomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecretDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleMazeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Builder_1/Builder_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/Builder_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Builder_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Builder_1/src/MainLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder_1/src/MainLombok.java" afterDir="false" />
@@ -30,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../Decorator_1/out/production/Decorator_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/out/production/Decorator_1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Decorator_1/src/ExternalEmailContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/src/ExternalEmailContent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Decorator_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleMazeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleMazeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sinlgeton_Ticket_thread/src/TicketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sinlgeton_Ticket_thread/src/TicketManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UML/ClassDiagram_1.PNG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../UML/ClassDiagram_2.PNG" beforeDir="false" />
@@ -51,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/김동준/Desktop/설계패턴/Design_Pattern/Quiz2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/김동준/Desktop/설계패턴/Design_Pattern/Quiz2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\김동준\Desktop\설계패턴\Design_Pattern\Quiz2\src" />
