@@ -3,11 +3,13 @@ import java.util.List;
 
 public class Box extends ParcelItem{
 
-    private List<ParcelItem> items = new ArrayList<>();
-
+    // Box클래스도 하나의 ParcelItem으로 List에 들어가기 가능(Box안의 Box)
     public Box(int weight) {
         super(weight);
     }
+    private List<ParcelItem> items = new ArrayList<>();
+    public void addItems(ParcelItem item) { items.add(item); }
+
 
     public int price() {
         int totalPrice = 0;
@@ -18,7 +20,4 @@ public class Box extends ParcelItem{
         }
         return totalPrice;
     }
-
-    public void addItems(ParcelItem item) { items.add(item); }
-
 }

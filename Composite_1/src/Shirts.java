@@ -1,10 +1,8 @@
-public class Shirts {
-    private int weight;
+public class Shirts extends ParcelItem{
 
     public Shirts(int weight) {
-        this.weight = weight;
+        super(weight);
     }
-
     public int price() {
         return this.weight/100*200;
     }
