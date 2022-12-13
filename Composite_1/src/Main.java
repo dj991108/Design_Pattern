@@ -1,4 +1,5 @@
 public class Main {
+    // Composite pattern
     public static void main(String[] args) {
         Box box1 = new Box(0);
         Socks s1 = new Socks(200);
