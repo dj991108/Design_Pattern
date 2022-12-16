@@ -1,4 +1,5 @@
 public class DoorFactory {
+    // Abstract Factory pattern
     public static Door createDoor(VendorId id) {
         Door door = null;
         switch (id) {
