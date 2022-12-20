@@ -1,5 +1,5 @@
 public class Main {
-    // Adapter pattern!!
+    // Adapter pattern
     public static void main(String[] args) {
         Adder adder = new MyAdder(); // 기본 adder ( adder : 연걸자, MyAdder : 제공자 )
         UseAdder use = new UseAdder(); // 실 사용 클래스 (사용자)
