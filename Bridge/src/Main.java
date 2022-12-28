@@ -1,5 +1,5 @@
 public class Main {
-    // Bridge pattern!
+    // Bridge pattern
     public static void main(String[] args) {
         Tv tv = new Tv();
         BasicRemote r1 = new BasicRemote(tv);
