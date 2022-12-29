@@ -1,7 +1,7 @@
 public class MainLombok {
     public static void main(String[] args) {
         StudentLombok s = new StudentLombok.StudentLombokBuilder()
-                .name("insang")
+                .name("insane")
                 .major("ce")
                 .midScore(100)
                 .finalScore(90)
