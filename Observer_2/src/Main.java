@@ -1,4 +1,5 @@
 public class Main {
+    // Observer Pattern
     public static void main(String[] args) {
         HansungBlogger h1 = new HansungBlogger();
         HansungBlogger h2 = new HansungBlogger();
