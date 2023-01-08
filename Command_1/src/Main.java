@@ -1,5 +1,5 @@
 public class Main {
-    // Command Pattern!
+    // Command Pattern
     public static void main(String[] args) {
         TV tv = new TV();
         // 다운캐스팅
