@@ -1,5 +1,5 @@
 public class Main {
-    // strategy pattern
+    // strategy pattern!
     public static void main(String[] args) {
         Employee emp1 = new Employee("1234", "insang1");
         emp1.setWorkHours(40);
