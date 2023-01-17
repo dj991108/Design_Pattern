@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
+    // Template Pattern
     public static void main(String[] args) {
 
         Customer c1 = new Customer("insang1");
